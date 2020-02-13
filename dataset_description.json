@@ -1,7 +1,7 @@
 {
     "id": "HEAD",
     "Name": "Mouse_awake_rest",
-    "License": "",
+    "License": "CC0",
     "Authors": [
         "Norio Takata",
         "Nobuhiko Sato",
@@ -13,6 +13,6 @@
     "Funding": [
         "This work was supported by KAKENHI (16K07032, 16H01620, 18H04952 to N.T.)."
     ],
-    "DatasetDOI": "*/openneuro.*.*",
+    "DatasetDOI": "10.18112/openneuro.ds002551.v1.0.0",
     "BIDSVersion": "*"
 }
