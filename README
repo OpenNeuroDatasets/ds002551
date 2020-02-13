@@ -1,1 +1,15 @@
-Resting state functional MRI in awake mice (male, C57BL/6J) using a CryoProbe.
+Resting state functional MRI in awake mice using a CryoProbe.
+
+JAX Mice Strain (C57BL/6J)
+8 mice, 15 runs.
+
+resting state fMRI in awake mice
+Bruker 7T MRI at CIEA, Japan
+GE-EPI
+resolution: 0.2 x 0.2 x 0.75 mm^3
+TR: 1.5 s
+TE: 15 ms
+Volume: 400 without dummy scan
+10 min
+Measurements: August 22 - October 27, 2016
+
