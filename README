@@ -1,4 +1,4 @@
-Resting state functional MRI in awake mice using a CryoProbe.
+## Resting state functional MRI in awake mice using a CryoProbe.
 
 JAX Mice Strain (C57BL/6J)
 8 mice, 15 runs.
@@ -12,4 +12,3 @@ TE: 15 ms
 Volume: 400 without dummy scan
 10 min
 Measurements: August 22 - October 27, 2016
-
