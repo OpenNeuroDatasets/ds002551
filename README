@@ -1,14 +1,27 @@
-## Resting state functional MRI in awake mice using a CryoProbe.
+# Raw data for resting state functional MRI in awake mice using a CryoProbe
 
+## SUBJECTS
 JAX Mice Strain (C57BL/6J)
-8 mice, 15 runs.
+8 male mice, 15 runs.
 
-resting state fMRI in awake mice
+## Scans
 Bruker 7T MRI at CIEA, Japan
+
+Measurements: August 22 - October 27, 2016
+
+### T2w Anatomical
+2D FLASH
+resolution: 0.75 x 0.75 x 3 mm^3
+matrix: 256 x 256 x 52
+
+### T2*w GE-EPI
 GE-EPI
 resolution: 0.2 x 0.2 x 0.75 mm^3
+matrix: 64 x 64 x 18
 TR: 1.5 s
 TE: 15 ms
 Volume: 400 without dummy scan
-10 min
-Measurements: August 22 - October 27, 2016
+scan time: 10 min
+
+## Preprocess
+The scale dimension unit was Å~10 of naive space.
