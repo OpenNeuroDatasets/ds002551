@@ -1,8 +1,0 @@
-{
- "FlipAngle": 10.0,
- "PulseSequenceType": "FLASH",
- "NumberOfVolumesDiscardedByScanner": 0,
- "RepetitionTime": 15,
- "Manufacturer": "Bruker BioSpin MRI GmbH",
- "InstitutionName": "CIEA Japan"
-}
