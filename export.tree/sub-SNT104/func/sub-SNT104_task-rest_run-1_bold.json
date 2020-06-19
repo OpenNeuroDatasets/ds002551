@@ -1,0 +1,7 @@
+{
+ "PulseSequenceType": "EPI",
+ "TaskName": "rest",
+ "EchoTime": 0.015,
+ "RepetitionTime": 1.5,
+ "Manufacturer": "Bruker BioSpin MRI GmbH"
+}

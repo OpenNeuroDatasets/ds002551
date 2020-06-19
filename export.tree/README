@@ -1,0 +1,27 @@
+# Raw data for resting state functional MRI in awake mice using a CryoProbe
+
+## SUBJECTS
+8 male adult C57BL/6J mice (JAX Mice)
+
+## Scans
+Bruker 7T MRI at CIEA, Japan
+
+Measurements: August 22 - October 27, 2016
+
+### T2w Anatomical
+2D RARE
+resolution: 0.75 x 0.75 x 3 mm^3
+matrix: 256 x 256 x 52
+
+### T2*w GE-EPI
+15 runs
+GE-EPI
+resolution: 0.2 x 0.2 x 0.75 mm^3
+matrix: 64 x 64 x 18
+TR: 1.5 s
+TE: 15 ms
+Volume: 400 without dummy scan
+scan time: 10 min
+
+## Preprocess
+The scale dimension unit was x10 of naive space.
